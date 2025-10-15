@@ -20,7 +20,7 @@ max=Math.max(num,max);        }
         System.out.println("avg = " +avg);
         System.out.println("min = " +min);
         System.out.println("max = " +max);
-        
+
 
     }
 }
