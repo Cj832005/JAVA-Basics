@@ -14,7 +14,7 @@ public class Soal8 {
                     }
                 }
 
-             
+
                 int daysInMonth = 0;
                 switch (month) {
                     case 1:
